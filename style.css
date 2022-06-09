@@ -1,0 +1,9 @@
+.titre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: rgb(206, 175, 150);
+}
